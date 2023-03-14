@@ -1,0 +1,38 @@
+
+ul{
+
+}
+body{
+    font-family: "Lato", sans-serif;
+border-top: 10px;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 0, 0);
+  }
+  
+  li {
+    float: left;
+  }
+  body
+  {
+      background-color: #ffffff;
+  }
+  li a {
+      display: block;
+      color: rgb(255, 255, 255);
+      text-align: right;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-family:Centry;
+      padding-right: 60%;
+    }
+  
+  
+  li a:hover {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  
